@@ -1,1 +1,1 @@
-alert('cybersecurity is fun')
+j&#X41vascript:alert('test2')
