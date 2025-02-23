@@ -1,1 +1,1 @@
-<script>alert('hello')</script>
+j&#X41vascript:alert('test2')
