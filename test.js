@@ -1,1 +1,1 @@
-j&#X41vascript:alert('test2')
+console.log("snap web client is running...")
